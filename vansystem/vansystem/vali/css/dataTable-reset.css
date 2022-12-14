@@ -1,0 +1,68 @@
+/** DataTables update **/
+table.dataTable.cell-border tbody tr th:first-child, table.dataTable.cell-border tbody tr td:first-child {
+    border-left: none;
+  }
+  
+  table.dataTable.cell-border tbody th, table.dataTable.cell-border tbody td {
+    border-right: none;
+  }
+  
+  .dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody th, .dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody td {
+    vertical-align: top;
+  }
+  
+  table.dataTable.no-footer {
+    border-bottom: none;
+  }
+  
+  thead input {
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+  
+.dataTables_wrapper .dataTables_length { float: right; }
+  .dataTables_length select {background-color:#004990; border: 1px solid #111; color: #FFF; border:0; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;padding: 5px;}
+  .dataTables_filter {width:30%;}
+  .dataTables_filter input {background-color:#004990; border: 1px solid #111; color: #FFF; border:0; padding:5px; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;}	
+  
+  table.dataTable.no-footer thead tr:first-child th { font-weight:normal; text-transform:uppercase;}
+  table.dataTable.no-footer thead input {background-color:#ffffff; border:0; padding:5px;
+  -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;}
+  
+  .editBut {font-size:20px; text-align:center; display:block; color:#bab290; height: 20px; line-height: 20px;}
+  
+  
+  table.dataTable.no-footer thead #filterrow th:first-child input,
+  table.dataTable.no-footer thead #filterrow th:last-child input {display:none;}
+  table.dataTable.no-footer thead #filterrow th:first-child {text-align:center;}
+  table.dataTable td:first-child {text-align:center;}
+  
+    table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {border-top:1px solid #d8cfa6;}
+  
+  table.dataTable.stripe tbody tr.odd, table.dataTable.display tbody tr.odd {background-color:#f9f8d9;}
+  table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {background-color: #fff;}
+  
+  table.dataTable tbody th, table.dataTable tbody td { padding: 6px 16px; }
+  .dataTables_wrapper .dataTables_paginate .paginate_button { color: #5cb85c !important;}
+
+  table.dataTable thead > tr > th.sorting_asc, table.dataTable thead > tr > th.sorting_desc, table.dataTable thead > tr > th.sorting, table.dataTable thead > tr > td.sorting_asc, table.dataTable thead > tr > td.sorting_desc, table.dataTable thead > tr > td.sorting, #formDetails th { white-space: nowrap; }
+
+  .dt-buttons .dt-button.custom-label, .dt-buttons .dt-button.custom-label:hover {
+    border: none;
+    background: none;
+    cursor: auto;
+    margin-left: 0;
+  }
+  
+  .dt-buttons .dt-button.custom-label h2 {
+    padding: 8px 0;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin: 0;
+  }
+  
+  button.dt-button, div.dt-button, a.dt-button {
+    padding: 5px 10px;
+  }

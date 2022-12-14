@@ -1,0 +1,1 @@
+/var/www/html/vanApp/public/scripts/sampling/medak_part2/medak_part261e58b2a6ea62.xlsx postgres postgres 10.0.0.7 5432 vanapp Medak_part2 division_master medak2@van 1000 0.1

@@ -1,0 +1,1 @@
+/var/www/html/vanApp/public/scripts/sampling/gaya/gaya5f735b39dcfac.xlsx postgres postgres 10.0.0.7 5432 vanapp Gaya division_master gaya@fes 1000 0.05

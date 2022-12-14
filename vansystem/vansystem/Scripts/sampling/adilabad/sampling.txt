@@ -1,0 +1,1 @@
+/var/www/html/vanApp/public/scripts/sampling/adilabad/adilabad61e81fd16b291.xlsx postgres postgres 10.0.0.7 5432 vanapp Adilabad division_master adilabad@van 1000 0.06

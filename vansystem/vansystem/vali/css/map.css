@@ -1,0 +1,155 @@
+#legend{
+	background-color: rgba(255, 255, 255, 0.95);
+	color: #000;
+	position: absolute;
+	right: 5px;
+	bottom: 0;
+	display: block;
+	z-index: 10;
+	width: 25%;
+	height: 40%;
+	text-align: left;
+	max-width: 300px;
+	box-shadow: 0 2px 10px rgba(0,0,0,.2);
+}
+
+#legendTitleBar {
+    background: #000000b8;
+    color: #fff;
+    text-align: left;
+    width: 100%;
+    cursor: pointer;
+    padding: 2px 0 2px 7px;
+    font-size: 0.91em;
+}
+
+#legendContent{
+	overflow-y: auto;
+	height: 85%;
+	padding: 5px 5px;
+}
+
+.lyrCtrRow{
+	/* box-shadow: inset 0px 0px 1px 0px #efefef85; */
+	border: 1px solid #dedede;
+	color: #4a4a4a;
+	background-color: #ececec;
+	border-radius: 3px;
+	padding: 7px;
+	margin-bottom: 5px;
+	width: 100%;
+	margin-left: 0px;
+}
+
+.lyrCtrLeft{
+	padding-top: 0.5rem;
+	padding-left: 0;
+}
+
+.lyrCtrRight{
+	padding-right: 0;
+	text-align: right;
+}
+
+.badge-custom{
+	font-size: 90%;
+    padding: 0.6em 1.2em;
+    display: inline-block;
+    font-weight: 700;
+    line-height: 1.6;
+    text-align: center;
+    white-space: nowrap;
+    /* vertical-align: baseline; */
+    border-radius: 0.5rem;
+}
+
+.badge-light {
+    color: #6f6f6f;
+    background-color: #ffffff;
+    border: 1px solid #b1d6ba;
+}
+
+.btn-light{
+	color: #f7f7f7;
+	background-color: #3d963d;
+	border-color: #3d963d;
+}
+
+.btn-light:hover {
+  color: #ffffff;
+  background-color: #3d963d;
+  border-color: #3d963d;
+}
+
+.btn-verified{
+	background-color: #e5fbe5;
+    color: #066d06;
+}
+
+.btn-verified:hover{
+	box-shadow: 0 0 0;
+	background-color: #e5fbe5;
+    color: #066d06;
+}
+
+.material-switch > input[type="checkbox"] {
+    display: none;   
+}
+
+.material-switch > label {
+    cursor: pointer;
+    height: 0px;
+    position: relative; 
+    width: 40px;  
+}
+
+.material-switch > label::before {
+    background: rgb(0, 0, 0);
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    content: '';
+    height: 16px;
+    margin-top: -8px;
+    position:absolute;
+    opacity: 0.3;
+    transition: all 0.4s ease-in-out;
+    width: 40px;
+}
+.material-switch > label::after {
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    content: '';
+    height: 24px;
+    left: -4px;
+    margin-top: -8px;
+    position: absolute;
+    top: -4px;
+    transition: all 0.3s ease-in-out;
+    width: 24px;
+}
+.material-switch > input[type="checkbox"]:checked + label::before {
+    background: inherit;
+    opacity: 0.5;
+}
+.material-switch > input[type="checkbox"]:checked + label::after {
+    background: inherit;
+    left: 20px;
+}
+.label-success {
+    background-color: #5cb85c;
+}
+.list-group-item{
+	display: flex;
+}
+.verified{
+	background-color: #e5fbe5a1;
+}
+.divVerified{
+	color: #229422;
+	padding: 0.5rem;
+	font-weight: bold;
+}
+.legendRow{
+    margin-bottom: 7px;
+}

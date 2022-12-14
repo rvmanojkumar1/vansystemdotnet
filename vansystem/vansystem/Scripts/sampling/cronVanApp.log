@@ -1,0 +1,32 @@
+find: ‘/var/www/html/ifmt/public/scripts/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+find: ‘/var/www/html/ifmt/public/files/sampling’: No such file or directory
+cat: ''$'\001''/'$'\001''v'$'\001''a'$'\001''r'$'\001''/'$'\001''w'$'\001''w'$'\001''w'$'\001''/'$'\001''h'$'\001''t'$'\001''m'$'\001''l'$'\001''/'$'\001''v'$'\001''a'$'\001''n'$'\001''A'$'\001''p'$'\001''p'$'\001''/'$'\001''p'$'\001''u'$'\001''b'$'\001''l'$'\001''i'$'\001''c'$'\001''/'$'\001''f'$'\001''i'$'\001''l'$'\001''e'$'\001''s'$'\001''/'$'\001''s'$'\001''a'$'\001''m'$'\001''p'$'\001''l'$'\001''i'$'\001''n'$'\001''g'$'\001''/'$'\001''m'$'\001''u'$'\001''n'$'\001''n'$'\001''a'$'\001''r'$'\001'' '$'\001''./grids.txt': No such file or directory
+cat: ''$'\001''/'$'\001''v'$'\001''a'$'\001''r'$'\001''/'$'\001''w'$'\001''w'$'\001''w'$'\001''/'$'\001''h'$'\001''t'$'\001''m'$'\001''l'$'\001''/'$'\001''v'$'\001''a'$'\001''n'$'\001''A'$'\001''p'$'\001''p'$'\001''/'$'\001''p'$'\001''u'$'\001''b'$'\001''l'$'\001''i'$'\001''c'$'\001''/'$'\001''f'$'\001''i'$'\001''l'$'\001''e'$'\001''s'$'\001''/'$'\001''s'$'\001''a'$'\001''m'$'\001''p'$'\001''l'$'\001''i'$'\001''n'$'\001''g'$'\001''/'$'\001''m'$'\001''u'$'\001''n'$'\001''n'$'\001''a'$'\001''r'$'\001'' '$'\001''./sampling.txt': No such file or directory
+cat: ''$'\001''/'$'\001''v'$'\001''a'$'\001''r'$'\001''/'$'\001''w'$'\001''w'$'\001''w'$'\001''/'$'\001''h'$'\001''t'$'\001''m'$'\001''l'$'\001''/'$'\001''v'$'\001''a'$'\001''n'$'\001''A'$'\001''p'$'\001''p'$'\001''/'$'\001''p'$'\001''u'$'\001''b'$'\001''l'$'\001''i'$'\001''c'$'\001''/'$'\001''f'$'\001''i'$'\001''l'$'\001''e'$'\001''s'$'\001''/'$'\001''s'$'\001''a'$'\001''m'$'\001''p'$'\001''l'$'\001''i'$'\001''n'$'\001''g'$'\001''/'$'\001''m'$'\001''u'$'\001''n'$'\001''n'$'\001''a'$'\001''r'$'\001'' '$'\001''./grids.txt': No such file or directory
+cat: ''$'\001''/'$'\001''v'$'\001''a'$'\001''r'$'\001''/'$'\001''w'$'\001''w'$'\001''w'$'\001''/'$'\001''h'$'\001''t'$'\001''m'$'\001''l'$'\001''/'$'\001''v'$'\001''a'$'\001''n'$'\001''A'$'\001''p'$'\001''p'$'\001''/'$'\001''p'$'\001''u'$'\001''b'$'\001''l'$'\001''i'$'\001''c'$'\001''/'$'\001''f'$'\001''i'$'\001''l'$'\001''e'$'\001''s'$'\001''/'$'\001''s'$'\001''a'$'\001''m'$'\001''p'$'\001''l'$'\001''i'$'\001''n'$'\001''g'$'\001''/'$'\001''m'$'\001''u'$'\001''n'$'\001''n'$'\001''a'$'\001''r'$'\001'' '$'\001''./sampling.txt': No such file or directory
+cat: ''$'\001''/'$'\001''v'$'\001''a'$'\001''r'$'\001''/'$'\001''w'$'\001''w'$'\001''w'$'\001''/'$'\001''h'$'\001''t'$'\001''m'$'\001''l'$'\001''/'$'\001''v'$'\001''a'$'\001''n'$'\001''A'$'\001''p'$'\001''p'$'\001''/'$'\001''p'$'\001''u'$'\001''b'$'\001''l'$'\001''i'$'\001''c'$'\001''/'$'\001''f'$'\001''i'$'\001''l'$'\001''e'$'\001''s'$'\001''/'$'\001''s'$'\001''a'$'\001''m'$'\001''p'$'\001''l'$'\001''i'$'\001''n'$'\001''g'$'\001''/'$'\001''m'$'\001''u'$'\001''n'$'\001''n'$'\001''a'$'\001''r'$'\001'' '$'\001''./grids.txt': No such file or directory
+cat: ''$'\001''/'$'\001''v'$'\001''a'$'\001''r'$'\001''/'$'\001''w'$'\001''w'$'\001''w'$'\001''/'$'\001''h'$'\001''t'$'\001''m'$'\001''l'$'\001''/'$'\001''v'$'\001''a'$'\001''n'$'\001''A'$'\001''p'$'\001''p'$'\001''/'$'\001''p'$'\001''u'$'\001''b'$'\001''l'$'\001''i'$'\001''c'$'\001''/'$'\001''f'$'\001''i'$'\001''l'$'\001''e'$'\001''s'$'\001''/'$'\001''s'$'\001''a'$'\001''m'$'\001''p'$'\001''l'$'\001''i'$'\001''n'$'\001''g'$'\001''/'$'\001''m'$'\001''u'$'\001''n'$'\001''n'$'\001''a'$'\001''r'$'\001'' '$'\001''./sampling.txt': No such file or directory
+cat: ''$'\001''/'$'\001''v'$'\001''a'$'\001''r'$'\001''/'$'\001''w'$'\001''w'$'\001''w'$'\001''/'$'\001''h'$'\001''t'$'\001''m'$'\001''l'$'\001''/'$'\001''v'$'\001''a'$'\001''n'$'\001''A'$'\001''p'$'\001''p'$'\001''/'$'\001''p'$'\001''u'$'\001''b'$'\001''l'$'\001''i'$'\001''c'$'\001''/'$'\001''f'$'\001''i'$'\001''l'$'\001''e'$'\001''s'$'\001''/'$'\001''s'$'\001''a'$'\001''m'$'\001''p'$'\001''l'$'\001''i'$'\001''n'$'\001''g'$'\001''/'$'\001''m'$'\001''u'$'\001''n'$'\001''n'$'\001''a'$'\001''r'$'\001'' '$'\001''./grids.txt': No such file or directory
+cat: ''$'\001''/'$'\001''v'$'\001''a'$'\001''r'$'\001''/'$'\001''w'$'\001''w'$'\001''w'$'\001''/'$'\001''h'$'\001''t'$'\001''m'$'\001''l'$'\001''/'$'\001''v'$'\001''a'$'\001''n'$'\001''A'$'\001''p'$'\001''p'$'\001''/'$'\001''p'$'\001''u'$'\001''b'$'\001''l'$'\001''i'$'\001''c'$'\001''/'$'\001''f'$'\001''i'$'\001''l'$'\001''e'$'\001''s'$'\001''/'$'\001''s'$'\001''a'$'\001''m'$'\001''p'$'\001''l'$'\001''i'$'\001''n'$'\001''g'$'\001''/'$'\001''m'$'\001''u'$'\001''n'$'\001''n'$'\001''a'$'\001''r'$'\001'' '$'\001''./sampling.txt': No such file or directory

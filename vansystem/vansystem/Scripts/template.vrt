@@ -1,0 +1,8 @@
+<OGRVRTDataSource> 
+    <OGRVRTLayer name="layer_name">
+        <SrcDataSource>csv_path</SrcDataSource> 
+        <LayerSRS>epsg:4326</LayerSRS>
+        <GeometryType>wkbPoint</GeometryType> 
+        <GeometryField encoding="PointFromColumns" x="X" y="Y"/> 
+   </OGRVRTLayer>
+</OGRVRTDataSource> 

@@ -1,0 +1,1 @@
+/var/www/html/vanApp/public/scripts/sampling/amrabad/amrabad61c962accfb91.xlsx postgres postgres 10.0.0.7 5432 vanapp Amrabad division_master amrabad@van 1000 0

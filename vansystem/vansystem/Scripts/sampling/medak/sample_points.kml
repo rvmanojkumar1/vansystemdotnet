@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sample_points" id="sample_points">
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+<Folder><name>sample_points</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.357776233760219</SimpleData>
+		<SimpleData name="lat">18.170405896350342</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3577762337602,18.1704058963503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.311863038372607</SimpleData>
+		<SimpleData name="lat">18.137818917749055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3118630383726,18.1378189177491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.166540033948891</SimpleData>
+		<SimpleData name="lat">18.087968611551574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1665400339489,18.0879686115516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.297974158372597</SimpleData>
+		<SimpleData name="lat">18.089207837749040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2979741583726,18.089207837749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.186863118372628</SimpleData>
+		<SimpleData name="lat">18.110041157749045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1868631183726,18.110041157749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">77.978529918372686</SimpleData>
+		<SimpleData name="lat">18.075318957749037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9785299183727,18.075318957749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.249363078372625</SimpleData>
+		<SimpleData name="lat">18.068374517749039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2493630783726,18.068374517749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.207696438372636</SimpleData>
+		<SimpleData name="lat">18.061430077749037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2076964383726,18.061430077749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.061863198372663</SimpleData>
+		<SimpleData name="lat">18.033652317749027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0618631983727,18.033652317749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.145196478372640</SimpleData>
+		<SimpleData name="lat">18.033652317749027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1451964783726,18.033652317749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.506307358372553</SimpleData>
+		<SimpleData name="lat">18.012818997749026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5063073583726,18.012818997749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.332696358372601</SimpleData>
+		<SimpleData name="lat">17.964207917749015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3326963583726,17.964207917749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.297974158372597</SimpleData>
+		<SimpleData name="lat">17.957263477749009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2979741583726,17.957263477749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">77.902141078372722</SimpleData>
+		<SimpleData name="lat">17.950319037749011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9021410783727,17.950319037749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">77.992418798372682</SimpleData>
+		<SimpleData name="lat">17.922541277749005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9924187983727,17.922541277749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.339640798372585</SimpleData>
+		<SimpleData name="lat">17.929485717749003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3396407983726,17.929485717749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">77.922971669793029</SimpleData>
+		<SimpleData name="lat">17.936433049824956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.922971669793,17.936433049825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">77.992418798372682</SimpleData>
+		<SimpleData name="lat">17.894763517748999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9924187983727,17.894763517749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.270196398372605</SimpleData>
+		<SimpleData name="lat">17.887819077748997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2701963983726,17.887819077749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.541029558372543</SimpleData>
+		<SimpleData name="lat">17.853096877748989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5410295583725,17.853096877749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.304918598372595</SimpleData>
+		<SimpleData name="lat">17.846152437748984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3049185983726,17.846152437749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.117418718372647</SimpleData>
+		<SimpleData name="lat">17.839207997748982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1174187183726,17.839207997749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.249363078372625</SimpleData>
+		<SimpleData name="lat">17.797541357748976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2493630783726,17.797541357749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.186863118372628</SimpleData>
+		<SimpleData name="lat">17.804485797748974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1868631183726,17.804485797749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.457696278372566</SimpleData>
+		<SimpleData name="lat">17.755874717748963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.4576962783726,17.755874717749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sample_points">
+		<SimpleData name="lon">78.446136532651309</SimpleData>
+		<SimpleData name="lat">17.716428937113989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.4461365326513,17.716428937114</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
