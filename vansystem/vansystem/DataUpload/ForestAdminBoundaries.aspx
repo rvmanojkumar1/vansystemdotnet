@@ -22,7 +22,7 @@
                             Field 3: geom<br />
                         </p>
                     </div>
-                    <div class="tile-footer"><a class="btn btn-primary" href="#">Link</a></div>
+                    <!-- <div class="tile-footer"><a class="btn btn-primary" href="#">Link</a></div> -->
                 </div>
             </div>
              <%=Products %>
